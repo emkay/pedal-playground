@@ -1,5 +1,4 @@
 import {LitElement, css, html} from 'lit'
-import Pedals from './pedals.js'
 
 export default class Drop extends LitElement {
   static styles = css`

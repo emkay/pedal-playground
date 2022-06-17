@@ -1,6 +1,6 @@
 import {LitElement, css, html} from 'lit'
-import Drop from './drop.js'
-import PlayerControls from './player-controls.js'
+import Drop from './components/drop.js'
+import PlayerControls from './components/player-controls.js'
 import FileList from './components/file-list.js'
 import Pedals from './pedals.js'
 
